@@ -1,0 +1,46 @@
+html {
+    font-size: 10px;
+    font-family: 'Noto Sans JP', sans-serif;
+
+    background-color: #A4ADB3;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px #242425cb;
+}
+
+.ajtext{
+    font-size: 18px;
+    text-align: center;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #365272;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: left;
+}
+
+p, ul, .mlink {
+    font-size: 14px;
+    text-align: left;
+
+}
+body, h1, h2, .ajtext, p, ul, .mlink {
+    color: #a4adb3
+}
